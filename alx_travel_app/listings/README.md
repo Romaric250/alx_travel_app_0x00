@@ -22,11 +22,11 @@ To get started with the project, follow these steps:
     ```
 3. Install dependencies:
     ```sh
-    npm install
+    
     ```
 4. Start the development server:
     ```sh
-    npm start
+   
     ```
 
 ## Contributing
